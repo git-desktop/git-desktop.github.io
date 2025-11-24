@@ -1,3 +1,8 @@
+---
+title: "What is Git/GitHub?"
+description: "Focus on what matters instead of fighting with Git. Whether you're new to Git or a seasoned user, GitHub Desktop simplifies your development workflow."
+---
+
 You can get GitHub Desktop on supported Windows or macOS operating systems.
 
 ## Platform navigation
